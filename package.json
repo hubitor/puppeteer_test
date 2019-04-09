@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jest": "^24.7.1",
+    "log4js": "^4.1.0",
+    "nodemon": "^1.18.10",
+    "puppeteer": "^1.14.0"
+  },
+  "dependencies": {}
+}
